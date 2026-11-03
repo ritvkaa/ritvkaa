@@ -34,7 +34,7 @@ A crowd monitoring system that analyses pedestrian density across urban zones, d
 
 *Python · Machine Learning · Isolation Forest · Data Visualization*
 
-**[Mo’ Mitti – AI Farming Assistant](#)**
+**[Mo’ Mitti – AI Farming Assistant](https://github.com/kaushiki-guha/Mo-MITTI)**
 
 An AI-powered farming assistant developed for Smart India Hackathon 2025. Includes crop health analysis, an AI farming chatbot, and crop recommendations based on soil, weather, and location inputs.
 
