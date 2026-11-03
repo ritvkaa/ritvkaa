@@ -58,26 +58,6 @@ A full-stack e-commerce application with product management, customer authentica
 
 *Next.js · MongoDB · Cloudinary · Razorpay*
 
-### Experience
-
-**Full Stack Developer Intern — Adnecto Technologies**
-
-*June 2026 – Present*
-
-Working on frontend development, responsive web interfaces, Next.js applications, and an independently developed full-stack e-commerce project.
-
-**ML Team Member — KIIT Robotics Society**
-
-*2025 – Present*
-
-Worked with PyTorch models, data preprocessing, feature extraction, model evaluation, and computer vision techniques for robotics-related problem statements.
-
-### Education
-
-**Kalinga Institute of Industrial Technology (KIIT)**  
-B.Tech — Computer Science and Engineering  
-Current CGPA: **8.97 / 10.00**
-
 ### GitHub activity
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritvkaa&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/ritvkaa)
