@@ -1,65 +1,96 @@
 # Ritwika Dasgupta
 
-**Computer Science & Engineering (AI & ML) | Developer | Problem Solver**
+**CSE Student | Full-Stack Developer | AI/ML Enthusiast**
 
-I’m an undergraduate student at **KIIT University**, interested in building intelligent systems and exploring how technology can solve real-world problems.
+I enjoy building things that solve practical problems — from interactive web applications to machine learning systems.
 
-Currently exploring Machine Learning, Computer Vision, Full-Stack Development and Data Structures & Algorithms. I enjoy experimenting with ideas, building projects and learning by actually making things work.
+Currently pursuing B.Tech in Computer Science and Engineering at **KIIT University**, with a focus on full-stack development, applied machine learning, and problem-solving.
 
----
+### A little about me
 
-## About Me
+- Building responsive web applications with React.js, Next.js, and modern web technologies.
+- Exploring machine learning, deep learning, and computer vision through hands-on projects.
+- Part of the ML team at KIIT Robotics Society.
+- Currently working on strengthening my development skills and DSA fundamentals.
+- Always interested in learning something new and turning ideas into working projects.
 
-- Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning.
-- Exploring Machine Learning, Deep Learning and Computer Vision.
-- Building full-stack applications and interactive tools.
-- Strengthening my problem-solving skills through DSA.
-- Interested in the intersection of intelligent systems and practical software development.
+### Tech stack
 
-## Technologies & Tools
-
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
-| Languages | Python, C++, JavaScript |
-| AI / ML | PyTorch, OpenCV, MediaPipe, NLP |
-| Web Development | Next.js, FastAPI |
-| Database | MongoDB |
-| Tools | Git, GitHub, VS Code |
+| Languages | Python, C++, Java, JavaScript, TypeScript, SQL |
+| Frontend | HTML, CSS, Tailwind CSS, React.js, Next.js |
+| Backend & Databases | Node.js, MongoDB, SQL, Next.js Server Actions |
+| AI / ML | PyTorch, TensorFlow, Scikit-learn, Gemini API, Google Genkit |
+| Computer Vision | OpenCV, MediaPipe |
+| Data Tools | Pandas, NumPy, Matplotlib |
+| Developer Tools | Git, GitHub, VS Code, Vercel, Firebase |
 
-## Selected Projects
+### Featured projects
 
-### UrbanFlow
-An urban mobility analysis application that processes pedestrian movement data, detects anomalies and visualizes activity through interactive heatmaps.
+**[UrbanFlow – Smart Crowd Monitoring](https://github.com/ritvkaa/UrbanFlow)**
 
-**Stack:** Python, FastAPI, Machine Learning, Data Visualization
+A crowd monitoring system that analyses pedestrian density across urban zones, detects unusual crowd spikes using Isolation Forest, and provides congestion insights and route recommendations.
 
-[View Project](https://github.com/ritvkaa/UrbanFlow)
+*Python · Machine Learning · Isolation Forest · Data Visualization*
 
-### Virtual Hand Drawing App
-A computer vision application that enables real-time drawing through hand gestures and tracking.
+**[Mo’ Mitti – AI Farming Assistant](#)**
 
-**Stack:** Python, OpenCV, MediaPipe
+An AI-powered farming assistant developed for Smart India Hackathon 2025. Includes crop health analysis, an AI farming chatbot, and crop recommendations based on soil, weather, and location inputs.
 
-### Fake News Detection System
-An NLP-based classification project using text preprocessing and TF-IDF feature extraction to identify potentially misleading news content.
+*Python · Next.js · TypeScript · Gemini API · Google Genkit*
 
-**Stack:** Python, NLP, Machine Learning, TF-IDF
+**[Virtual Hand Drawing App](https://github.com/ritvkaa/ai-hand-painter)**
 
-## GitHub Activity
+A real-time gesture-based drawing application that uses hand landmark detection to translate finger movements into on-screen strokes.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritvkaa&show_icons=true&theme=tokyonight&hide_border=true)
+*OpenCV · MediaPipe · Computer Vision*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvkaa&layout=compact&theme=tokyonight&hide_border=true)
+**[Floating Waste Detection](https://github.com/ritvkaa/floating-waste-detection)**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ritvkaa&theme=tokyonight&hide_border=true)
+A computer vision project using YOLOv8 to detect floating waste in water images and evaluate object detection performance.
 
-## Let's Connect
+*Python · YOLOv8 · Deep Learning · Computer Vision*
 
-[LinkedIn](https://www.linkedin.com/in/ritwika-dasgupta-0218a8339) · [GitHub](https://github.com/ritvkaa)
+**[Clothing Store](https://github.com/ritvkaa/clothing-store)**
 
----
+A full-stack e-commerce application with product management, customer authentication, shopping cart, and checkout functionality.
 
-*Curious by nature. Building through experimentation. Learning with every project.*
+*Next.js · MongoDB · Cloudinary · Razorpay*
+
+### Experience
+
+**Full Stack Developer Intern — Adnecto Technologies**
+
+*June 2026 – Present*
+
+Working on frontend development, responsive web interfaces, Next.js applications, and an independently developed full-stack e-commerce project.
+
+**ML Team Member — KIIT Robotics Society**
+
+*2025 – Present*
+
+Worked with PyTorch models, data preprocessing, feature extraction, model evaluation, and computer vision techniques for robotics-related problem statements.
+
+### Education
+
+**Kalinga Institute of Industrial Technology (KIIT)**  
+B.Tech — Computer Science and Engineering  
+Current CGPA: **8.97 / 10.00**
+
+### GitHub activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritvkaa&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/ritvkaa)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvkaa&layout=compact&hide_border=true)](https://github.com/ritvkaa)
+
+### Let's connect
+
+- **LinkedIn:** [ritwika-dasgupta](https://www.linkedin.com/in/ritwika-dasgupta/)
+- **GitHub:** [ritvkaa](https://github.com/ritvkaa)
+- **Email:** dasguptaritwika595@gmail.com
+
+*Building, learning, experimenting — one project at a time.*
 
 <!--
 **ritvkaa/ritvkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
